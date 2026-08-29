@@ -9,7 +9,7 @@
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 ```diff
-+  🎓 Estudiante de 1º DAM
++  🎓 Estudiante de 2º DAM
 -  🧠 Programación en Java, HTML5, CSS y JavaScript
 !  📂 Proyectos académicos bien estructurados
 @@  🚀 En constante aprendizaje @@
