@@ -2,16 +2,16 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+Estudiante+de+Desarrollo+de+Aplicaciones+Multiplataforma;%3E+Aprendiendo+Java,+POO,+HTML5,+CSS3,+JavaScript">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+Estudiante+de+2+de+Desarrollo+de+Aplicaciones+Multiplataforma;%3E+Busco+practicas+como+desarrollador">
 </p>
 
   <!-- Foto Pînguino -->
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 ```diff
-+  🎓 Estudiante de 2º DAM
--  🧠 Programación en Java, HTML5, CSS y JavaScript
-!  📂 Proyectos académicos bien estructurados
+-  🎓 Estudiante de 2º DAM
++  🧠 Programación en Java, Spring Boot, MySQL, HTML5, CSS y JavaScript
+!  🔀 Git y GitHub: ramas y pull requests en equipo
 @@  🚀 En constante aprendizaje @@
 ```
 
@@ -24,12 +24,20 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" /> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" /> </td> 
   </tr> 
+  <tr> <td><b>Frameworks</b></td> 
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="52" alt="Spring Boot logo" /> </td></td>
+  </tr>
   <tr> <td><b>Herramientas</b></td> 
     <td> 
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ IDEA logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Android Studio logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" alt="Git logo" />
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" /> </td> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" alt="MySQL logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" alt="Docker logo" /> </td> 
   </tr> 
 </table>
 
