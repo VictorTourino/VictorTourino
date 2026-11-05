@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+Estudiante+de+2+de+Desarrollo+de+Aplicaciones+Multiplataforma;%3E+Busco+practicas+como+desarrollador">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=%3E+Estudiante+de+2+de+Desarrollo+de+Aplicaciones+Multiplataforma;%3E+Busco+prácticas+como+desarrollador">
 </p>
 
   <!-- Foto Pînguino -->
@@ -39,6 +39,14 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" alt="Docker logo" /> </td> 
   </tr> 
+  <tr>
+    <td><b>Librerías</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge" alt="Java Swing" />
+      <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" alt="JDBC" />
+      <img src="https://img.shields.io/badge/jBCrypt-2E7D32?style=for-the-badge" alt="jBCrypt" />
+    </td>
+  </tr>
 </table>
 
 
